@@ -9,6 +9,7 @@ The nice feature of the above link is that it is a single-page listing of 250 to
 Task A. Extract about 2-3k reviews. 
 Task B. Assume that a customer, who will be using this recommender system, has specified 3 attributes in a product. E.g., one website describes multiple attributes of beer:
 https://www.dummies.com/food-drink/drinks/beer/beer-for-dummies-cheat-sheet/
+
 •	Aggressive (Boldly assertive aroma and/or taste) 
 
 •	Balanced: Malt and hops in similar proportions; equal representation of malt sweetness and hop bitterness in the flavor — especially at the finish
